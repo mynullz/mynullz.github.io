@@ -3,7 +3,7 @@ layout: post
 title: "scala ch3 summary"
 description: ""
 category: 
-tags: []
+tags: [scala]
 ---
 {% include JB/setup %}
 
