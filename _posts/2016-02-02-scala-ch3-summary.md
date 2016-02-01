@@ -7,9 +7,6 @@ tags: [scala]
 ---
 {% include JB/setup %}
 
-
-
-
 # 3장
 
 ## 배열타입에 파라미터를 지정하자.
