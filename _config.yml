@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : mynullz
     livefyre :
       site_id : 123
     intensedebate :
@@ -102,9 +102,9 @@ JB :
   analytics :
     provider : google
     gauges :
-        site_id : 'SITE ID'
+        site_id : 'mynullz.github.io'
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-73370182-1'
     getclicky :
       site_id : 
     mixpanel :
@@ -119,7 +119,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : true
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
