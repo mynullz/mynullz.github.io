@@ -4,7 +4,6 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-{% include themes/bootstrap-3/default.html %}
 
 ## nullz
 
