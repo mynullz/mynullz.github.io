@@ -5,6 +5,8 @@ description: ""
 category: 
 tags: [scala]
 ---
+{% include JB/setup %}
+
 
 # 3장
 
