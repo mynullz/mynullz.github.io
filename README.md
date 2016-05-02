@@ -9,6 +9,8 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 ## Features
 
+## Test3
+
 ## Test
 
 ### Collections Test 
