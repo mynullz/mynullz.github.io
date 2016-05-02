@@ -9,7 +9,9 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 ## Features
 
-### Collections
+
+
+### Collections Test
 This Jekyll theme implements collections to let you break up your work into categories. The example is divided into poetry and portfolio, but easily revamp this into recipes, apps, short stories, limmericks, whatever your creative work is. 
 > To do this, edit the collections in the config file, create a corresponding folder, and update the portfolio and poetry source files. 
 
