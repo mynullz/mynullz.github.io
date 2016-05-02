@@ -8,6 +8,7 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 
 ## Features
+## Test6
 ## Test5
 ## Test3
 ##test4
